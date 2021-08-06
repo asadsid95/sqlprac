@@ -1,1 +1,1 @@
-# sqlpractise
+# sqlprac
