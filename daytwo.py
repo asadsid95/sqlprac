@@ -68,7 +68,7 @@ def switched(item):
     return first_list
 
 
-# print(switched(10))
+print(switched(10))
 
 # 4. Removing duplicates in list
 
